@@ -1,0 +1,73 @@
+{
+  "stringTable": {
+    "0": "/Users/aham/AndroidStudioProjects/sqliteTest/app/.cxx/cmake/release/arm64-v8a",
+    "1": "--target=aarch64-none-linux-android21 --gcc-toolchain=/Users/aham/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/aham/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dnative_lib_EXPORTS -I/Users/aham/AndroidStudioProjects/sqliteTest/app/src/main/cpp/../jni/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -std=c++11 -O2 -DNDEBUG -fPIC",
+    "2": "--target=aarch64-none-linux-android21 --gcc-toolchain=/Users/aham/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/aham/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dnative_lib_EXPORTS -I/Users/aham/AndroidStudioProjects/sqliteTest/app/src/main/cpp/../jni/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -O2 -DNDEBUG -fPIC",
+    "3": "--target=aarch64-none-linux-android21 --gcc-toolchain=/Users/aham/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/aham/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dsqlite_lib_EXPORTS -I/Users/aham/AndroidStudioProjects/sqliteTest/app/src/main/cpp/../jni/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -O2 -DNDEBUG -fPIC"
+  },
+  "buildFiles": [
+    "/Users/aham/AndroidStudioProjects/sqliteTest/app/src/main/cpp/CMakeLists.txt",
+    "/Users/aham/Library/Android/sdk/ndk/21.1.6352462/build/cmake/platforms.cmake",
+    "/Users/aham/Library/Android/sdk/ndk/21.1.6352462/build/cmake/android.toolchain.cmake"
+  ],
+  "cleanCommands": [
+    "/Users/aham/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/aham/AndroidStudioProjects/sqliteTest/app/.cxx/cmake/release/arm64-v8a\" clean"
+  ],
+  "buildTargetsCommand": "/Users/aham/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/Users/aham/AndroidStudioProjects/sqliteTest/app/.cxx/cmake/release/arm64-v8a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "sqlite-lib-Release-arm64-v8a": {
+      "buildCommand": "/Users/aham/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/aham/AndroidStudioProjects/sqliteTest/app/.cxx/cmake/release/arm64-v8a\" sqlite-lib",
+      "buildType": "release",
+      "toolchain": "715472068",
+      "abi": "arm64-v8a",
+      "artifactName": "sqlite-lib",
+      "files": [
+        {
+          "src": "/Users/aham/AndroidStudioProjects/sqliteTest/app/src/main/jni/src/shell.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/aham/AndroidStudioProjects/sqliteTest/app/src/main/jni/src/sqlite3.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "/Users/aham/AndroidStudioProjects/sqliteTest/app/build/intermediates/cmake/release/obj/arm64-v8a/libsqlite-lib.so"
+    },
+    "native-lib-Release-arm64-v8a": {
+      "buildCommand": "/Users/aham/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/aham/AndroidStudioProjects/sqliteTest/app/.cxx/cmake/release/arm64-v8a\" native-lib",
+      "buildType": "release",
+      "toolchain": "715472068",
+      "abi": "arm64-v8a",
+      "artifactName": "native-lib",
+      "files": [
+        {
+          "src": "/Users/aham/AndroidStudioProjects/sqliteTest/app/src/main/cpp/genNgetData.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/aham/AndroidStudioProjects/sqliteTest/app/src/main/cpp/native-lib.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "/Users/aham/AndroidStudioProjects/sqliteTest/app/build/intermediates/cmake/release/obj/arm64-v8a/libnative-lib.so"
+    }
+  },
+  "toolchains": {
+    "715472068": {
+      "cCompilerExecutable": "/Users/aham/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang",
+      "cppCompilerExecutable": "/Users/aham/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++"
+    }
+  },
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

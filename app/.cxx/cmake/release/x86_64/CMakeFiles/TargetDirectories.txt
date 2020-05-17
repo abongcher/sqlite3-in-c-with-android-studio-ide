@@ -1,0 +1,4 @@
+/Users/aham/AndroidStudioProjects/sqliteTest/app/.cxx/cmake/release/x86_64/CMakeFiles/rebuild_cache.dir
+/Users/aham/AndroidStudioProjects/sqliteTest/app/.cxx/cmake/release/x86_64/CMakeFiles/edit_cache.dir
+/Users/aham/AndroidStudioProjects/sqliteTest/app/.cxx/cmake/release/x86_64/CMakeFiles/native-lib.dir
+/Users/aham/AndroidStudioProjects/sqliteTest/app/.cxx/cmake/release/x86_64/CMakeFiles/sqlite-lib.dir

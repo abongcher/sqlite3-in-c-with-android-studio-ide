@@ -1,0 +1,25 @@
+[
+{
+  "directory": "/Users/aham/AndroidStudioProjects/sqliteTest/app/.cxx/cmake/release/x86_64",
+  "command": "/Users/aham/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=x86_64-none-linux-android21 --gcc-toolchain=/Users/aham/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/aham/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dnative_lib_EXPORTS -I/Users/aham/AndroidStudioProjects/sqliteTest/app/src/main/cpp/../jni/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++11 -O2 -DNDEBUG  -fPIC   -o CMakeFiles/native-lib.dir/native-lib.cpp.o -c /Users/aham/AndroidStudioProjects/sqliteTest/app/src/main/cpp/native-lib.cpp",
+  "file": "/Users/aham/AndroidStudioProjects/sqliteTest/app/src/main/cpp/native-lib.cpp"
+},
+
+{
+  "directory": "/Users/aham/AndroidStudioProjects/sqliteTest/app/.cxx/cmake/release/x86_64",
+  "command": "/Users/aham/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=x86_64-none-linux-android21 --gcc-toolchain=/Users/aham/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/aham/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dnative_lib_EXPORTS -I/Users/aham/AndroidStudioProjects/sqliteTest/app/src/main/cpp/../jni/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC   -o CMakeFiles/native-lib.dir/genNgetData.c.o   -c /Users/aham/AndroidStudioProjects/sqliteTest/app/src/main/cpp/genNgetData.c",
+  "file": "/Users/aham/AndroidStudioProjects/sqliteTest/app/src/main/cpp/genNgetData.c"
+},
+
+{
+  "directory": "/Users/aham/AndroidStudioProjects/sqliteTest/app/.cxx/cmake/release/x86_64",
+  "command": "/Users/aham/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=x86_64-none-linux-android21 --gcc-toolchain=/Users/aham/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/aham/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dsqlite_lib_EXPORTS -I/Users/aham/AndroidStudioProjects/sqliteTest/app/src/main/cpp/../jni/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC   -o CMakeFiles/sqlite-lib.dir/Users/aham/AndroidStudioProjects/sqliteTest/app/src/main/jni/src/shell.c.o   -c /Users/aham/AndroidStudioProjects/sqliteTest/app/src/main/jni/src/shell.c",
+  "file": "/Users/aham/AndroidStudioProjects/sqliteTest/app/src/main/jni/src/shell.c"
+},
+
+{
+  "directory": "/Users/aham/AndroidStudioProjects/sqliteTest/app/.cxx/cmake/release/x86_64",
+  "command": "/Users/aham/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=x86_64-none-linux-android21 --gcc-toolchain=/Users/aham/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/aham/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dsqlite_lib_EXPORTS -I/Users/aham/AndroidStudioProjects/sqliteTest/app/src/main/cpp/../jni/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC   -o CMakeFiles/sqlite-lib.dir/Users/aham/AndroidStudioProjects/sqliteTest/app/src/main/jni/src/sqlite3.c.o   -c /Users/aham/AndroidStudioProjects/sqliteTest/app/src/main/jni/src/sqlite3.c",
+  "file": "/Users/aham/AndroidStudioProjects/sqliteTest/app/src/main/jni/src/sqlite3.c"
+}
+]

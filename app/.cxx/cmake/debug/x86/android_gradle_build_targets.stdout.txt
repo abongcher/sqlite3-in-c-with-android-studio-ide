@@ -1,0 +1,7 @@
+ninja: Entering directory `/Users/aham/AndroidStudioProjects/sqliteTest/app/.cxx/cmake/debug/x86'
+[1/6] Building C object CMakeFiles/native-lib.dir/genNgetData.c.o
+[2/6] Building CXX object CMakeFiles/native-lib.dir/native-lib.cpp.o
+[3/6] Building C object CMakeFiles/sqlite-lib.dir/Users/aham/AndroidStudioProjects/sqliteTest/app/src/main/jni/src/shell.c.o
+[4/6] Building C object CMakeFiles/sqlite-lib.dir/Users/aham/AndroidStudioProjects/sqliteTest/app/src/main/jni/src/sqlite3.c.o
+[5/6] Linking C shared library /Users/aham/AndroidStudioProjects/sqliteTest/app/build/intermediates/cmake/debug/obj/x86/libsqlite-lib.so
+[6/6] Linking CXX shared library /Users/aham/AndroidStudioProjects/sqliteTest/app/build/intermediates/cmake/debug/obj/x86/libnative-lib.so

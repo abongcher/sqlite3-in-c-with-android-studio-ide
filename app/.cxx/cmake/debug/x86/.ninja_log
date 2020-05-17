@@ -1,0 +1,7 @@
+# ninja log v5
+3	369	1589697393	CMakeFiles/native-lib.dir/genNgetData.c.o	eaef992b9924f82f
+1	3532	1589697396	CMakeFiles/native-lib.dir/native-lib.cpp.o	2e374f346e064f73
+4	5192	1589697398	CMakeFiles/sqlite-lib.dir/Users/aham/AndroidStudioProjects/sqliteTest/app/src/main/jni/src/shell.c.o	f1264b607e87c785
+6	29633	1589697422	CMakeFiles/sqlite-lib.dir/Users/aham/AndroidStudioProjects/sqliteTest/app/src/main/jni/src/sqlite3.c.o	8aa3c7fb91d2755f
+29635	30014	1589697423	/Users/aham/AndroidStudioProjects/sqliteTest/app/build/intermediates/cmake/debug/obj/x86/libsqlite-lib.so	9d7f56cc6be369a0
+30015	30356	1589697423	/Users/aham/AndroidStudioProjects/sqliteTest/app/build/intermediates/cmake/debug/obj/x86/libnative-lib.so	a418e0f736278be4
